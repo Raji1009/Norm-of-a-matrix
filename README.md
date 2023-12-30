@@ -60,13 +60,16 @@ print("{:.2f}".format(norm))
 ## Output:
 
 ### 1-Norm of a Matrix
-![output](image.png)
+![image](https://github.com/Raji1009/Norm-of-a-matrix/assets/89059861/87f299b7-7129-4dcc-a21a-1d00c2ed55e0)
+
 
 ### 2-Norm of a Matrix
-![output](image-1.png)
+![image](https://github.com/Raji1009/Norm-of-a-matrix/assets/89059861/58a02584-18d5-4b09-980b-e573681044f2)
+
 
 ### Infinity Norm of a Matrix
-![output](image-2.png)
+![image](https://github.com/Raji1009/Norm-of-a-matrix/assets/89059861/55dc45b7-279e-4453-88a9-3c802a51c7b1)
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
